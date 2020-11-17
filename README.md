@@ -2,7 +2,7 @@
 Gallery based web application using lightbox
 
 # API Used
-a. IntersectionObserver for lazy load of the images
+a. IntersectionObserver for lazy load of the images, 
 b. TinyPNG for compressing the images
 
 # Project URL
